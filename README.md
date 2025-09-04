@@ -5,7 +5,6 @@
 
 This n8n workflow automates **industry-specific lead generation** and **personalized cold email outreach** using Apollo.io data, Apify scraping, and AI-powered email personalization. The system sources qualified leads based on custom criteria (industry, company size, job titles) and generates hyper-personalized emails at scale.
 
-![Workflow Diagram](workflow-diagram.png) <!-- Add screenshot of your n8n workflow -->
 
 ## ✨ Key Features
 - **Targeted Lead Sourcing**: Filter by industry (retail, real estate, etc.), company size (1-10 employees), job titles, and location
